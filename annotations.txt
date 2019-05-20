@@ -1,0 +1,3 @@
+Gosto mais da ideia de usar o resultado do birch. Dado um grupo do birch lá da primeira etapa, se os elementos da amostra (maioria?) for classificado como sendo do grupo "A", todo o resto do cluster a gente bota o rótulo de A.
+
+Desta forma você está supondo que o cluster que o Birch montou é bom? Porém nessas comparações ele apresenta diferença da cluterização do DBSCAN.
